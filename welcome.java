@@ -1,0 +1,6 @@
+public class Welcome {
+    public static void main(String[] args) {
+        String name = "Yasir";
+        System.out.println("Welcome " + name);
+    }
+}
